@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Lixuan\Desktop\dsdlab3\simulation\qsim
+vg58_lab3
+Z1 !s100 gV=zN@OHm4iZhYkVk7]]@2
+Z2 IFF9Qkdd0iX6lS3n?z[cGP1
+Z3 V?QNAX]B^3Lk>Y3@UdJaFA2
+Z4 dC:\Users\Lixuan\Desktop\dsdlab3\simulation\qsim
+Z5 w1489644736
+Z6 8g58_lab3.vo
+Z7 Fg58_lab3.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|g58_lab3.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1489644737.674000
+Z12 !s107 g58_lab3.vo|
+!s101 -O0
+vg58_lab3_vlg_check_tst
+!i10b 1
+!s100 zENXP;Po5O<c_b3Qzl02H0
+Ic5G7;2F9VK_@iBbN3mZYR3
+Z13 V]W4cllDJBS3]d9W>7Bh^k3
+R4
+Z14 w1489644735
+Z15 8g58_lab3.vt
+Z16 Fg58_lab3.vt
+L0 67
+R8
+r1
+!s85 0
+31
+Z17 !s108 1489644737.924000
+Z18 !s107 g58_lab3.vt|
+Z19 !s90 -work|work|g58_lab3.vt|
+!s101 -O0
+R10
+vg58_lab3_vlg_sample_tst
+!i10b 1
+Z20 !s100 C_Phl@dmR7:AXM9M[8zcB1
+Z21 Im`>^YT:U6MfiZk^VQ>Z5:0
+Z22 V>Kz_CgWRY_UOlM`k9;]z;1
+R4
+R14
+R15
+R16
+L0 29
+R8
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R10
+vg58_lab3_vlg_vec_tst
+!i10b 1
+!s100 SH[;?kAI[DSYHo@d4>1dj1
+I3>X?:;;N^^KfTTaIzbcO52
+Z23 VzPEXaL`ManN:=GzDaNTg73
+R4
+R14
+R15
+R16
+Z24 L0 537
+R8
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R10

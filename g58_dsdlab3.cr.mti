@@ -1,0 +1,1310 @@
+C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_83.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_83.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_83.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_83.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_83.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_12.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_12.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_12.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_12.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_12.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_41.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_41.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_41.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_41.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_41.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_105.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_105.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_105.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_105.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_105.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_16.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_16.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_16.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_16.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_16.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_43.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_43.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_43.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_43.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_43.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_53.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_53.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_53.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_53.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_53.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_8.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_8.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_8.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_8.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_8.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_18.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_18.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_18.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_18.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_18.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_1.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_1.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_1.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_1.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_1.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_45.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_45.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_45.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_45.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_45.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_55.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_55.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_55.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_55.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_55.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_11.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_11.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_11.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_11.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_11.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_102.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_102.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_102.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_102.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_102.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_3.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_3.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_3.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_3.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_3.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_47.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_47.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_47.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_47.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_47.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_57.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_57.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_57.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_57.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_57.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_13.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_13.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_13.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_13.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_13.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_94.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_94.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_94.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_94.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_94.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_49.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_49.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_49.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_49.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_49.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_60.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_60.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_60.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_60.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_60.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_15.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_15.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_15.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_15.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_15.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_96.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_96.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_96.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_96.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_96.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_62.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_62.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_62.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_62.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_62.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/g58_stack_test_init.vht {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/g58_stack_test_init.vht
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity g58_stack52_test_init
+-- Compiling architecture g58_stack52_test_init_arch of g58_stack52_test_init
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/g58_stack_test_init.vht(24): near "COMPONENT": expecting ';'
+
+} {9.0 10.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_88.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_88.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_88.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_88.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_88.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_98.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_98.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_98.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_98.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_98.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_19.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_19.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_19.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_19.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_19.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_91.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_91.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_91.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_91.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_91.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_30.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_30.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_30.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_30.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_30.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_93.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_93.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_93.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_93.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_93.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_22.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_22.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_22.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_22.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_22.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_32.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_32.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_32.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_32.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_58.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_58.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_58.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_58.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_58.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_95.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_95.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_95.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_95.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_95.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_24.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_24.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_24.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_24.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_24.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_34.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_34.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_34.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_34.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_34.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_26.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_26.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_26.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_26.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_26.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_63.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_63.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_63.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_63.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_63.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_38.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_38.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_38.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_38.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_38.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_65.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_65.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_65.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_65.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_65.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_75.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_75.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_75.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_75.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_75.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/g58_stack52.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/g58_stack52.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity g58_stack52
+-- Compiling architecture bdf_type of g58_stack52
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/g58_stack52.vhd(1224): Type error resolving infix expression "&" as type ARRAY2D0.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/g58_stack52.vhd(2087): VHDL Compiler exiting
+
+} {8.0 10.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_67.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_67.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_67.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_67.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_67.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_77.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_77.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_77.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_77.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_77.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_69.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_69.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_69.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_69.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_69.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_70.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_70.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_70.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_70.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_70.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_80.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_80.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_80.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_80.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_80.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_79.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_79.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_79.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_79.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_79.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_100.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_100.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_100.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_100.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_100.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_72.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_72.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_72.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_72.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_72.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_82.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_82.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_82.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_82.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_82.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_37.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_37.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_37.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_37.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_37.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_84.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_84.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_84.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_84.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_84.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_104.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_104.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_104.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_104.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_104.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_50.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_50.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_50.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_50.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_50.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_86.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_86.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_86.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_86.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_86.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_52.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_52.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_52.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_52.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_52.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_7.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_7.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_7.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_7.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_7.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_17.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_17.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_17.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_17.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_17.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_44.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_44.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_44.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_44.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_44.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_54.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_54.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_54.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_54.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_54.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_9.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_9.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_9.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_9.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_9.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_20.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_20.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_20.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_20.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_20.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_46.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_46.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_46.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_46.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_46.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_mux_5.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_mux_5.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_mux_5.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_mux_5.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_mux_5.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_56.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_56.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_56.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_56.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_56.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_103.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_103.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_103.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_103.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_103.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_4.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_4.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_4.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_4.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_4.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_48.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_48.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_48.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_48.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_48.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/g58_pop_enable.vhd {1 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/g58_pop_enable.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity g58_pop_enable
+-- Compiling architecture g58_pop_enable_arch of g58_pop_enable
+
+} {} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_14.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_14.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_14.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_14.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_14.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_85.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_85.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_85.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_85.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_85.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_6.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_6.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_6.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_6.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_6.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_51.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_51.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_51.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_51.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_51.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_61.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_61.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_61.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_61.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_61.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_87.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_87.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_87.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_87.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_87.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_97.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_97.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_97.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_97.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_97.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_89.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_89.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_89.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_89.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_89.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_90.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_90.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_90.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_90.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_90.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_99.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_99.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_99.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_99.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_99.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_28.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_28.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_28.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_28.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_28.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_21.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_21.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_21.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_21.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_21.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_92.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_92.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_92.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_92.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_92.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_31.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_31.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_31.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_31.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_31.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_23.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_23.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_23.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_23.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_23.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_33.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_33.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_33.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_33.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_33.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_59.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_59.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_59.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_59.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_59.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_25.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_25.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_25.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_25.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_25.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_35.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_35.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_35.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_35.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_35.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_27.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_27.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_27.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_27.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_27.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/g58_lab3.vhd {1 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/g58_lab3.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity g58_lab3
+-- Compiling architecture bdf_type of g58_lab3
+
+} {} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_64.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_64.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_64.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_64.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_64.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_74.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_74.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_74.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_74.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_74.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_29.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_29.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_29.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_29.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_29.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_40.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_40.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_40.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_40.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_40.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_39.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_39.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_39.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_39.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_39.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_66.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_66.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_66.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_66.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_66.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_76.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_76.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_76.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_76.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_76.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_42.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_42.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_42.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_42.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_42.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_68.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_68.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_68.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_68.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_68.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_78.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_78.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_78.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_78.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_78.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_0.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_0.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_0.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_0.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_0.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_71.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_71.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_71.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_71.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_71.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_81.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_81.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_81.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_81.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_81.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_10.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_10.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_10.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_10.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_10.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_36.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_36.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_36.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_36.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_36.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_101.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_101.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_101.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_101.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_101.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_2.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find work.lpm_components.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_2.vhd(28): (vcom-1195) Cannot find expanded name "work.lpm_components".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_2.vhd(28): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/lpm_ff_2.vhd(30): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}} C:/Users/Lixuan/Desktop/dsdlab3/busmux_73.vhd {0 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab3/busmux_73.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: (vcom-11) Could not find altera.maxplus2.
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_73.vhd(23): (vcom-1195) Cannot find expanded name "altera.maxplus2".
+
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_73.vhd(23): Unknown expanded name.
+** Error: C:/Users/Lixuan/Desktop/dsdlab3/busmux_73.vhd(27): VHDL Compiler exiting
+
+} {6.0 7.0 8.0 9.0 10.0 12.0} {}}

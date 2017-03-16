@@ -1,0 +1,116 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Lixuan\Desktop\dsdlab2
+Eg58_lab3
+Z0 w1489602472
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\Lixuan\Desktop\dsdlab3
+Z4 8C:/Users/Lixuan/Desktop/dsdlab3/g58_lab3.vhd
+Z5 FC:/Users/Lixuan/Desktop/dsdlab3/g58_lab3.vhd
+l0
+L24
+VQYG6ImH=VmQ_ZP@UhbJfF3
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1489603566.205000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lixuan/Desktop/dsdlab3/g58_lab3.vhd|
+Z9 !s107 C:/Users/Lixuan/Desktop/dsdlab3/g58_lab3.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 2AaF@`4z?^l=<1JIgagVV3
+!i10b 1
+Abdf_type
+R1
+R2
+DEx4 work 8 g58_lab3 0 22 QYG6ImH=VmQ_ZP@UhbJfF3
+l58
+L40
+V2SS>encVbT59IiKDMY?CF0
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 lXJ>[hnHRI<[7m7MWKT9C0
+!i10b 1
+Eg58_pop_enable
+Z12 w1487314228
+Z13 DPx3 lpm 14 lpm_components 0 22 aHRA3clF>2DcWDhgFTAbM3
+R1
+R2
+R3
+Z14 8C:/Users/Lixuan/Desktop/dsdlab3/g58_pop_enable.vhd
+Z15 FC:/Users/Lixuan/Desktop/dsdlab3/g58_pop_enable.vhd
+l0
+L18
+VFX2kc>Mm3?3k5oM_L9_j<0
+R6
+32
+Z16 !s108 1489603566.303000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lixuan/Desktop/dsdlab3/g58_pop_enable.vhd|
+Z18 !s107 C:/Users/Lixuan/Desktop/dsdlab3/g58_pop_enable.vhd|
+R10
+R11
+!s100 9kSPj=5a[TfS_Ro@YH>8<2
+!i10b 1
+Ag58_pop_enable_arch
+R13
+R1
+R2
+DEx4 work 14 g58_pop_enable 0 22 FX2kc>Mm3?3k5oM_L9_j<0
+l30
+L27
+VQoNne5_SSFLJWW4?fA`hS3
+R6
+32
+R16
+R17
+R18
+R10
+R11
+!s100 EPnjRADT9VYzI5zij?c<23
+!i10b 1
+Eg58_stack52
+w1489602542
+R1
+R2
+R3
+8C:/Users/Lixuan/Desktop/dsdlab3/g58_stack52.vhd
+FC:/Users/Lixuan/Desktop/dsdlab3/g58_stack52.vhd
+l0
+L24
+VE=ZEe`0jR:l4bn=MoIS@o1
+!s100 YKg^Y@PgUYX`I@8Hl=S7]3
+R6
+32
+!i10b 1
+!s108 1489603566.628000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lixuan/Desktop/dsdlab3/g58_stack52.vhd|
+!s107 C:/Users/Lixuan/Desktop/dsdlab3/g58_stack52.vhd|
+R10
+R11
+Eg58_stack52_test_init
+w1489603469
+Z19 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+8C:/Users/Lixuan/Desktop/dsdlab3/g58_stack_test_init.vht
+FC:/Users/Lixuan/Desktop/dsdlab3/g58_stack_test_init.vht
+l0
+L7
+VT_8m@<o_E?Q]i1GfiNoO]0
+R6
+32
+R10
+R11
+!s100 nUW?gA2EaDc?8W^Sl<`B22
+!i10b 1
+!s108 1489603566.495000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lixuan/Desktop/dsdlab3/g58_stack_test_init.vht|
+!s107 C:/Users/Lixuan/Desktop/dsdlab3/g58_stack_test_init.vht|
