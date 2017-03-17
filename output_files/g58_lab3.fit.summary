@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Mar 17 14:05:03 2017
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : g58_lab3
+Top-level Entity Name : g58_testbed
+Family : Cyclone II
+Device : EP2C20F484C7
+Timing Models : Final
+Total logic elements : 626 / 18,752 ( 3 % )
+    Total combinational functions : 619 / 18,752 ( 3 % )
+    Dedicated logic registers : 319 / 18,752 ( 2 % )
+Total registers : 319
+Total pins : 46 / 315 ( 15 % )
+Total virtual pins : 0
+Total memory bits : 3,328 / 239,616 ( 1 % )
+Embedded Multiplier 9-bit elements : 0 / 52 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
