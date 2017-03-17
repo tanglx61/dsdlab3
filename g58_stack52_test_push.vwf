@@ -282,7 +282,7 @@ SIGNAL("clk")
 	PARENT = "";
 }
 
-SIGNAL("test")
+SIGNAL("num")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = BUS;
@@ -292,64 +292,94 @@ SIGNAL("test")
 	PARENT = "";
 }
 
-SIGNAL("test[5]")
+SIGNAL("num[5]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
 	WIDTH = 1;
 	LSB_INDEX = -1;
 	DIRECTION = OUTPUT;
-	PARENT = "test";
+	PARENT = "num";
 }
 
-SIGNAL("test[4]")
+SIGNAL("num[4]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
 	WIDTH = 1;
 	LSB_INDEX = -1;
 	DIRECTION = OUTPUT;
-	PARENT = "test";
+	PARENT = "num";
 }
 
-SIGNAL("test[3]")
+SIGNAL("num[3]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
 	WIDTH = 1;
 	LSB_INDEX = -1;
 	DIRECTION = OUTPUT;
-	PARENT = "test";
+	PARENT = "num";
 }
 
-SIGNAL("test[2]")
+SIGNAL("num[2]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
 	WIDTH = 1;
 	LSB_INDEX = -1;
 	DIRECTION = OUTPUT;
-	PARENT = "test";
+	PARENT = "num";
 }
 
-SIGNAL("test[1]")
+SIGNAL("num[1]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
 	WIDTH = 1;
 	LSB_INDEX = -1;
 	DIRECTION = OUTPUT;
-	PARENT = "test";
+	PARENT = "num";
 }
 
-SIGNAL("test[0]")
+SIGNAL("num[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
 	WIDTH = 1;
 	LSB_INDEX = -1;
 	DIRECTION = OUTPUT;
-	PARENT = "test";
+	PARENT = "num";
+}
+
+SIGNAL("empty")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = OUTPUT;
+	PARENT = "";
+}
+
+SIGNAL("full")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = OUTPUT;
+	PARENT = "";
+}
+
+SIGNAL("enable")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
 }
 
 TRANSITION_LIST("mode[1]")
@@ -357,8 +387,7 @@ TRANSITION_LIST("mode[1]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 640.0;
+		LEVEL 0 FOR 650.0;
 	}
 }
 
@@ -367,8 +396,7 @@ TRANSITION_LIST("mode[0]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 10.0;
-		LEVEL 1 FOR 640.0;
+		LEVEL 1 FOR 650.0;
 	}
 }
 
@@ -377,7 +405,7 @@ TRANSITION_LIST("addr[5]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 650.0;
+		LEVEL 0 FOR 650.0;
 	}
 }
 
@@ -741,7 +769,7 @@ TRANSITION_LIST("clk")
 	}
 }
 
-TRANSITION_LIST("test[5]")
+TRANSITION_LIST("num[5]")
 {
 	NODE
 	{
@@ -750,7 +778,7 @@ TRANSITION_LIST("test[5]")
 	}
 }
 
-TRANSITION_LIST("test[4]")
+TRANSITION_LIST("num[4]")
 {
 	NODE
 	{
@@ -759,7 +787,7 @@ TRANSITION_LIST("test[4]")
 	}
 }
 
-TRANSITION_LIST("test[3]")
+TRANSITION_LIST("num[3]")
 {
 	NODE
 	{
@@ -768,7 +796,7 @@ TRANSITION_LIST("test[3]")
 	}
 }
 
-TRANSITION_LIST("test[2]")
+TRANSITION_LIST("num[2]")
 {
 	NODE
 	{
@@ -777,7 +805,7 @@ TRANSITION_LIST("test[2]")
 	}
 }
 
-TRANSITION_LIST("test[1]")
+TRANSITION_LIST("num[1]")
 {
 	NODE
 	{
@@ -786,19 +814,46 @@ TRANSITION_LIST("test[1]")
 	}
 }
 
-TRANSITION_LIST("test[0]")
+TRANSITION_LIST("num[0]")
 {
 	NODE
 	{
 		REPEAT = 1;
 		LEVEL X FOR 650.0;
+	}
+}
+
+TRANSITION_LIST("empty")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 650.0;
+	}
+}
+
+TRANSITION_LIST("full")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 650.0;
+	}
+}
+
+TRANSITION_LIST("enable")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 1 FOR 650.0;
 	}
 }
 
 DISPLAY_LINE
 {
 	CHANNEL = "mode";
-	EXPAND_STATUS = EXPANDED;
+	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 0;
 	TREE_LEVEL = 0;
@@ -828,7 +883,7 @@ DISPLAY_LINE
 DISPLAY_LINE
 {
 	CHANNEL = "addr";
-	EXPAND_STATUS = EXPANDED;
+	EXPAND_STATUS = COLLAPSED;
 	RADIX = Unsigned;
 	TREE_INDEX = 3;
 	TREE_LEVEL = 0;
@@ -1046,9 +1101,9 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "test";
+	CHANNEL = "num";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Binary;
+	RADIX = Unsigned;
 	TREE_INDEX = 25;
 	TREE_LEVEL = 0;
 	CHILDREN = 26, 27, 28, 29, 30, 31;
@@ -1056,9 +1111,9 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "test[5]";
+	CHANNEL = "num[5]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Binary;
+	RADIX = Unsigned;
 	TREE_INDEX = 26;
 	TREE_LEVEL = 1;
 	PARENT = 25;
@@ -1066,9 +1121,9 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "test[4]";
+	CHANNEL = "num[4]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Binary;
+	RADIX = Unsigned;
 	TREE_INDEX = 27;
 	TREE_LEVEL = 1;
 	PARENT = 25;
@@ -1076,9 +1131,9 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "test[3]";
+	CHANNEL = "num[3]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Binary;
+	RADIX = Unsigned;
 	TREE_INDEX = 28;
 	TREE_LEVEL = 1;
 	PARENT = 25;
@@ -1086,9 +1141,9 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "test[2]";
+	CHANNEL = "num[2]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Binary;
+	RADIX = Unsigned;
 	TREE_INDEX = 29;
 	TREE_LEVEL = 1;
 	PARENT = 25;
@@ -1096,9 +1151,9 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "test[1]";
+	CHANNEL = "num[1]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Binary;
+	RADIX = Unsigned;
 	TREE_INDEX = 30;
 	TREE_LEVEL = 1;
 	PARENT = 25;
@@ -1106,12 +1161,39 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "test[0]";
+	CHANNEL = "num[0]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Binary;
+	RADIX = Unsigned;
 	TREE_INDEX = 31;
 	TREE_LEVEL = 1;
 	PARENT = 25;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "empty";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 32;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "full";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 33;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "enable";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 34;
+	TREE_LEVEL = 0;
 }
 
 TIME_BAR

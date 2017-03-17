@@ -93,13 +93,6 @@ applicable agreement for further details.
 		(text "num[5..0]" (rect 104 75 155 89)(font "Arial" (font_size 8)))
 		(line (pt 176 80)(pt 160 80)(line_width 3))
 	)
-	(port
-		(pt 176 96)
-		(output)
-		(text "test[5..0]" (rect 0 0 49 14)(font "Arial" (font_size 8)))
-		(text "test[5..0]" (rect 106 91 155 105)(font "Arial" (font_size 8)))
-		(line (pt 176 96)(pt 160 96)(line_width 3))
-	)
 	(drawing
 		(rectangle (rect 16 16 160 144))
 	)

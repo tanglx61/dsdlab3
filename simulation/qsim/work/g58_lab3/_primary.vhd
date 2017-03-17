@@ -11,7 +11,6 @@ entity g58_lab3 is
         mode            : in     vl_logic_vector(1 downto 0);
         full            : out    vl_logic;
         num             : out    vl_logic_vector(5 downto 0);
-        test            : out    vl_logic_vector(5 downto 0);
         value           : out    vl_logic_vector(5 downto 0)
     );
 end g58_lab3;

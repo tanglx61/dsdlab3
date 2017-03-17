@@ -23,20 +23,20 @@
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst85|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_CONSTANT:inst999" CBX_FILE_NAME="lpm_constant_h84.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst29|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_ia4.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_COUNTER:inst114" CBX_FILE_NAME="cntr_qeg.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst69|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst87|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst49|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_694.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst97|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst101|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst20|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst3|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_CONSTANT:inst1000" CBX_FILE_NAME="lpm_constant_ka4.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst10|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_e94.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst89|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_r84.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst98|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_k84.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst13|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst22|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst40|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_CONSTANT:inst1001" CBX_FILE_NAME="lpm_constant_t64.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst110|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_m84.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst2|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_i94.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst99|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_l84.tdf"/>
@@ -69,6 +69,7 @@
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst34|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_i84.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst52|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_294.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst70|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_ba4.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_MUX:inst115" CBX_FILE_NAME="mux_mmc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst28|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst46|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst64|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
@@ -111,5 +112,7 @@
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst11|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst79|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_q84.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_h84.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|BUSMUX:inst3|LPM_MUX:$00000" CBX_FILE_NAME="mux_qmc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g58_lab3|g58_stack52:inst|LPM_FF:inst98|LPM_CONSTANT:sc" CBX_FILE_NAME="lpm_constant_k84.tdf"/>
 	</PROJECT>
 </LOG_ROOT>
