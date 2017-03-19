@@ -69,7 +69,7 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 280 312 448 328)
+	(rect 280 288 448 304)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
 	(text "data[5..0]" (rect 5 0 52 12)(font "Arial" ))
 	(pt 168 8)
@@ -85,7 +85,7 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 280 280 448 296)
+	(rect 280 256 448 272)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
 	(text "rst" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
@@ -101,7 +101,7 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 280 352 448 368)
+	(rect 280 320 448 336)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
 	(text "disp_mode" (rect 5 0 58 12)(font "Arial" ))
 	(pt 168 8)
@@ -117,9 +117,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 280 256 448 272)
+	(rect 280 240 448 256)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "press" (rect 5 0 33 12)(font "Arial" ))
+	(text "button" (rect 5 0 36 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -227,6 +227,22 @@ applicable agreement for further details.
 		(line (pt 78 12)(pt 82 8))
 	)
 )
+(pin
+	(output)
+	(rect 776 392 952 408)
+	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
+	(text "pulse" (rect 90 0 115 12)(font "Arial" ))
+	(pt 0 8)
+	(drawing
+		(line (pt 0 8)(pt 52 8))
+		(line (pt 52 4)(pt 78 4))
+		(line (pt 52 12)(pt 78 12))
+		(line (pt 52 12)(pt 52 4))
+		(line (pt 78 4)(pt 82 8))
+		(line (pt 82 8)(pt 78 12))
+		(line (pt 78 12)(pt 82 8))
+	)
+)
 (symbol
 	(rect 536 168 744 328)
 	(text "g58_stack52_testbed" (rect 5 0 127 14)(font "Arial" (font_size 8)))
@@ -255,8 +271,8 @@ applicable agreement for further details.
 	(port
 		(pt 0 80)
 		(input)
-		(text "press" (rect 0 0 33 14)(font "Arial" (font_size 8)))
-		(text "press" (rect 21 75 54 89)(font "Arial" (font_size 8)))
+		(text "button" (rect 0 0 35 14)(font "Arial" (font_size 8)))
+		(text "button" (rect 21 75 56 89)(font "Arial" (font_size 8)))
 		(line (pt 0 80)(pt 16 80))
 	)
 	(port
@@ -322,6 +338,13 @@ applicable agreement for further details.
 		(text "segs_floor[6..0]" (rect 98 107 187 121)(font "Arial" (font_size 8)))
 		(line (pt 208 112)(pt 192 112)(line_width 3))
 	)
+	(port
+		(pt 208 128)
+		(output)
+		(text "pulse" (rect 0 0 30 14)(font "Arial" (font_size 8)))
+		(text "pulse" (rect 157 123 187 137)(font "Arial" (font_size 8)))
+		(line (pt 208 128)(pt 192 128))
+	)
 	(drawing
 		(rectangle (rect 16 16 192 144))
 	)
@@ -348,53 +371,6 @@ applicable agreement for further details.
 	(pt 448 232)
 	(pt 536 232)
 	(bus)
-)
-(connector
-	(pt 448 264)
-	(pt 520 264)
-)
-(connector
-	(pt 520 264)
-	(pt 520 248)
-)
-(connector
-	(pt 520 248)
-	(pt 536 248)
-)
-(connector
-	(pt 448 288)
-	(pt 528 288)
-)
-(connector
-	(pt 528 288)
-	(pt 528 264)
-)
-(connector
-	(pt 528 264)
-	(pt 536 264)
-)
-(connector
-	(pt 448 320)
-	(pt 512 320)
-	(bus)
-)
-(connector
-	(pt 512 320)
-	(pt 512 280)
-	(bus)
-)
-(connector
-	(pt 512 280)
-	(pt 536 280)
-	(bus)
-)
-(connector
-	(pt 528 360)
-	(pt 448 360)
-)
-(connector
-	(pt 528 360)
-	(pt 528 296)
 )
 (connector
 	(pt 528 296)
@@ -465,4 +441,43 @@ applicable agreement for further details.
 	(pt 800 328)
 	(pt 832 328)
 	(bus)
+)
+(connector
+	(pt 448 248)
+	(pt 536 248)
+)
+(connector
+	(pt 512 280)
+	(pt 536 280)
+	(bus)
+)
+(connector
+	(pt 448 264)
+	(pt 536 264)
+)
+(connector
+	(pt 512 296)
+	(pt 448 296)
+	(bus)
+)
+(connector
+	(pt 512 280)
+	(pt 512 296)
+	(bus)
+)
+(connector
+	(pt 528 328)
+	(pt 448 328)
+)
+(connector
+	(pt 528 296)
+	(pt 528 328)
+)
+(connector
+	(pt 744 296)
+	(pt 776 296)
+)
+(connector
+	(pt 776 296)
+	(pt 776 400)
 )

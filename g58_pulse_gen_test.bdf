@@ -21,9 +21,9 @@ applicable agreement for further details.
 (header "graphic" (version "1.4"))
 (pin
 	(input)
-	(rect 224 280 392 296)
+	(rect 224 296 392 312)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "press" (rect 5 0 33 12)(font "Arial" ))
+	(text "clk" (rect 5 0 19 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -37,9 +37,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 224 296 392 312)
+	(rect 224 280 392 296)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "clk" (rect 5 0 20 12)(font "Arial" ))
+	(text "button" (rect 5 0 36 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -74,8 +74,8 @@ applicable agreement for further details.
 	(port
 		(pt 0 32)
 		(input)
-		(text "press" (rect 0 0 33 14)(font "Arial" (font_size 8)))
-		(text "press" (rect 21 27 54 41)(font "Arial" (font_size 8)))
+		(text "button" (rect 0 0 35 14)(font "Arial" (font_size 8)))
+		(text "button" (rect 21 27 56 41)(font "Arial" (font_size 8)))
 		(line (pt 0 32)(pt 16 32))
 	)
 	(port

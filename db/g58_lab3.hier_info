@@ -1,7 +1,7 @@
 |g58_testbed
 empty <= g58_stack52_testbed:inst.empty
 clk => g58_stack52_testbed:inst.clk
-press => g58_stack52_testbed:inst.press
+button => g58_stack52_testbed:inst.button
 rst => g58_stack52_testbed:inst.rst
 disp_mode => g58_stack52_testbed:inst.disp_mode
 addr[0] => g58_stack52_testbed:inst.addr[0]
@@ -19,6 +19,7 @@ data[5] => g58_stack52_testbed:inst.data[5]
 mode[0] => g58_stack52_testbed:inst.mode[0]
 mode[1] => g58_stack52_testbed:inst.mode[1]
 full <= g58_stack52_testbed:inst.full
+pulse <= g58_stack52_testbed:inst.pulse
 num[0] <= g58_stack52_testbed:inst.num[0]
 num[1] <= g58_stack52_testbed:inst.num[1]
 num[2] <= g58_stack52_testbed:inst.num[2]
@@ -49,10 +50,11 @@ value[5] <= g58_stack52_testbed:inst.value[5]
 
 |g58_testbed|g58_stack52_testbed:inst
 empty <= g58_stack52:inst.empty
-press => g58_stack52:inst.enable
-rst => g58_stack52:inst.rst
+pulse <= g58_pulse_gen:inst1.pulse
+button => g58_pulse_gen:inst1.button
+clk => g58_pulse_gen:inst1.clk
 clk => g58_stack52:inst.clk
-clk => g58_pulse_gen:inst5.clk
+rst => g58_stack52:inst.rst
 addr[0] => g58_stack52:inst.addr[0]
 addr[1] => g58_stack52:inst.addr[1]
 addr[2] => g58_stack52:inst.addr[2]
@@ -12352,6 +12354,106 @@ result[4] <= <GND>
 result[5] <= <GND>
 
 
+|g58_testbed|g58_stack52_testbed:inst|g58_pulse_gen:inst1
+pulse <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+button => inst.IN0
+clk => LPM_COUNTER:inst_counter.clock
+clk => inst3.CLK
+
+
+|g58_testbed|g58_stack52_testbed:inst|g58_pulse_gen:inst1|LPM_COMPARE:inst_compare
+dataa[0] => cmpr_62e:auto_generated.dataa[0]
+dataa[1] => cmpr_62e:auto_generated.dataa[1]
+dataa[2] => cmpr_62e:auto_generated.dataa[2]
+dataa[3] => cmpr_62e:auto_generated.dataa[3]
+datab[0] => cmpr_62e:auto_generated.datab[0]
+datab[1] => cmpr_62e:auto_generated.datab[1]
+datab[2] => cmpr_62e:auto_generated.datab[2]
+datab[3] => cmpr_62e:auto_generated.datab[3]
+clock => ~NO_FANOUT~
+aclr => ~NO_FANOUT~
+clken => ~NO_FANOUT~
+alb <= <GND>
+aeb <= cmpr_62e:auto_generated.aeb
+agb <= <GND>
+aleb <= <GND>
+aneb <= cmpr_62e:auto_generated.aneb
+ageb <= <GND>
+
+
+|g58_testbed|g58_stack52_testbed:inst|g58_pulse_gen:inst1|LPM_COMPARE:inst_compare|cmpr_62e:auto_generated
+aeb <= aeb_result_wire[0].DB_MAX_OUTPUT_PORT_TYPE
+aneb <= aneb_result_wire[0].DB_MAX_OUTPUT_PORT_TYPE
+dataa[0] => data_wire[0].IN0
+dataa[1] => data_wire[0].IN0
+dataa[2] => data_wire[1].IN0
+dataa[3] => data_wire[1].IN0
+datab[0] => data_wire[0].IN1
+datab[1] => data_wire[0].IN1
+datab[2] => data_wire[1].IN1
+datab[3] => data_wire[1].IN1
+
+
+|g58_testbed|g58_stack52_testbed:inst|g58_pulse_gen:inst1|LPM_COUNTER:inst_counter
+clock => cntr_0ig:auto_generated.clock
+clk_en => ~NO_FANOUT~
+cnt_en => cntr_0ig:auto_generated.cnt_en
+updown => ~NO_FANOUT~
+aclr => ~NO_FANOUT~
+aset => ~NO_FANOUT~
+aconst => ~NO_FANOUT~
+aload => ~NO_FANOUT~
+sclr => ~NO_FANOUT~
+sset => ~NO_FANOUT~
+sconst => ~NO_FANOUT~
+sload => ~NO_FANOUT~
+data[0] => ~NO_FANOUT~
+data[1] => ~NO_FANOUT~
+data[2] => ~NO_FANOUT~
+data[3] => ~NO_FANOUT~
+cin => ~NO_FANOUT~
+q[0] <= cntr_0ig:auto_generated.q[0]
+q[1] <= cntr_0ig:auto_generated.q[1]
+q[2] <= cntr_0ig:auto_generated.q[2]
+q[3] <= cntr_0ig:auto_generated.q[3]
+cout <= <GND>
+eq[0] <= <GND>
+eq[1] <= <GND>
+eq[2] <= <GND>
+eq[3] <= <GND>
+eq[4] <= <GND>
+eq[5] <= <GND>
+eq[6] <= <GND>
+eq[7] <= <GND>
+eq[8] <= <GND>
+eq[9] <= <GND>
+eq[10] <= <GND>
+eq[11] <= <GND>
+eq[12] <= <GND>
+eq[13] <= <GND>
+eq[14] <= <GND>
+eq[15] <= <GND>
+
+
+|g58_testbed|g58_stack52_testbed:inst|g58_pulse_gen:inst1|LPM_COUNTER:inst_counter|cntr_0ig:auto_generated
+clock => counter_reg_bit1a[3].CLK
+clock => counter_reg_bit1a[2].CLK
+clock => counter_reg_bit1a[1].CLK
+clock => counter_reg_bit1a[0].CLK
+cnt_en => _.IN1
+q[0] <= counter_reg_bit1a[0].REGOUT
+q[1] <= counter_reg_bit1a[1].REGOUT
+q[2] <= counter_reg_bit1a[2].REGOUT
+q[3] <= counter_reg_bit1a[3].REGOUT
+
+
+|g58_testbed|g58_stack52_testbed:inst|g58_pulse_gen:inst1|LPM_CONSTANT:inst5
+result[0] <= <GND>
+result[1] <= <GND>
+result[2] <= <GND>
+result[3] <= <GND>
+
+
 |g58_testbed|g58_stack52_testbed:inst|g58_7_segment_decoder:inst4
 code[0] => Mux0.IN35
 code[0] => Mux1.IN35
@@ -13289,12 +13391,5 @@ segments_out[3] <= Mux3.DB_MAX_OUTPUT_PORT_TYPE
 segments_out[4] <= Mux2.DB_MAX_OUTPUT_PORT_TYPE
 segments_out[5] <= Mux1.DB_MAX_OUTPUT_PORT_TYPE
 segments_out[6] <= Mux0.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|g58_testbed|g58_stack52_testbed:inst|g58_pulse_gen:inst5
-pulse <= inst3.DB_MAX_OUTPUT_PORT_TYPE
-press => inst3.IN1
-press => inst4.IN0
-clk => inst3.CLK
 
 

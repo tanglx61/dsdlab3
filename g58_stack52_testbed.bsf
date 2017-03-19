@@ -47,8 +47,8 @@ applicable agreement for further details.
 	(port
 		(pt 0 80)
 		(input)
-		(text "press" (rect 0 0 33 14)(font "Arial" (font_size 8)))
-		(text "press" (rect 21 75 54 89)(font "Arial" (font_size 8)))
+		(text "button" (rect 0 0 35 14)(font "Arial" (font_size 8)))
+		(text "button" (rect 21 75 56 89)(font "Arial" (font_size 8)))
 		(line (pt 0 80)(pt 16 80))
 	)
 	(port
@@ -113,6 +113,13 @@ applicable agreement for further details.
 		(text "segs_floor[6..0]" (rect 0 0 89 14)(font "Arial" (font_size 8)))
 		(text "segs_floor[6..0]" (rect 98 107 187 121)(font "Arial" (font_size 8)))
 		(line (pt 208 112)(pt 192 112)(line_width 3))
+	)
+	(port
+		(pt 208 128)
+		(output)
+		(text "pulse" (rect 0 0 30 14)(font "Arial" (font_size 8)))
+		(text "pulse" (rect 157 123 187 137)(font "Arial" (font_size 8)))
+		(line (pt 208 128)(pt 192 128))
 	)
 	(drawing
 		(rectangle (rect 16 16 192 144))

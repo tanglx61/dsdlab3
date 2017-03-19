@@ -26,8 +26,8 @@ applicable agreement for further details.
 	(port
 		(pt 0 32)
 		(input)
-		(text "press" (rect 0 0 33 14)(font "Arial" (font_size 8)))
-		(text "press" (rect 21 27 54 41)(font "Arial" (font_size 8)))
+		(text "button" (rect 0 0 35 14)(font "Arial" (font_size 8)))
+		(text "button" (rect 21 27 56 41)(font "Arial" (font_size 8)))
 		(line (pt 0 32)(pt 16 32))
 	)
 	(port

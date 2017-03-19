@@ -14414,12 +14414,6 @@ applicable agreement for further details.
 	(bus)
 )
 (connector
-	(text "addr[5..0],enable_all[5..0],enable_all[5..0],disable_all[5..0]" (rect 767 -8 1050 4)(font "Arial" ))
-	(pt 864 16)
-	(pt 1008 16)
-	(bus)
-)
-(connector
 	(pt 1120 24)
 	(pt 1304 24)
 	(bus)
@@ -14739,6 +14733,12 @@ applicable agreement for further details.
 	(text "nmode[1]" (rect 55 -304 101 -292)(font "Arial" ))
 	(pt 56 -288)
 	(pt 104 -288)
+)
+(connector
+	(text "addr[5..0],enable_all[5..0],enable_all[5..0],disable_all[5..0]" (rect 767 -8 1050 4)(font "Arial" ))
+	(pt 864 16)
+	(pt 1008 16)
+	(bus)
 )
 (junction (pt 584 1176))
 (junction (pt 584 792))
