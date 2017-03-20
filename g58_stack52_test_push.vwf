@@ -372,13 +372,23 @@ SIGNAL("full")
 	PARENT = "";
 }
 
-SIGNAL("enable")
+SIGNAL("button")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
 	WIDTH = 1;
 	LSB_INDEX = -1;
 	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("pulse")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = OUTPUT;
 	PARENT = "";
 }
 
@@ -841,12 +851,21 @@ TRANSITION_LIST("full")
 	}
 }
 
-TRANSITION_LIST("enable")
+TRANSITION_LIST("button")
 {
 	NODE
 	{
 		REPEAT = 1;
 		LEVEL 1 FOR 650.0;
+	}
+}
+
+TRANSITION_LIST("pulse")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL X FOR 650.0;
 	}
 }
 
@@ -1189,10 +1208,19 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "enable";
+	CHANNEL = "button";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 34;
+	TREE_LEVEL = 0;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "pulse";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 35;
 	TREE_LEVEL = 0;
 }
 

@@ -1,8 +1,8 @@
 |g58_testbed
 empty <= g58_stack52_testbed:inst.empty
 clk => g58_stack52_testbed:inst.clk
-button => g58_stack52_testbed:inst.button
-rst => g58_stack52_testbed:inst.rst
+button => inst1.IN0
+rst => inst2.IN0
 disp_mode => g58_stack52_testbed:inst.disp_mode
 addr[0] => g58_stack52_testbed:inst.addr[0]
 addr[1] => g58_stack52_testbed:inst.addr[1]
@@ -10,12 +10,6 @@ addr[2] => g58_stack52_testbed:inst.addr[2]
 addr[3] => g58_stack52_testbed:inst.addr[3]
 addr[4] => g58_stack52_testbed:inst.addr[4]
 addr[5] => g58_stack52_testbed:inst.addr[5]
-data[0] => g58_stack52_testbed:inst.data[0]
-data[1] => g58_stack52_testbed:inst.data[1]
-data[2] => g58_stack52_testbed:inst.data[2]
-data[3] => g58_stack52_testbed:inst.data[3]
-data[4] => g58_stack52_testbed:inst.data[4]
-data[5] => g58_stack52_testbed:inst.data[5]
 mode[0] => g58_stack52_testbed:inst.mode[0]
 mode[1] => g58_stack52_testbed:inst.mode[1]
 full <= g58_stack52_testbed:inst.full
@@ -163,7 +157,7 @@ rst => LPM_FF:inst2.aclr
 rst => LPM_FF:inst.aclr
 clk => LPM_COUNTER:inst114.clock
 clk => LPM_FF:inst111.clock
-clk => g58_pop_enable:inst102.CLK
+clk => inst130.IN0
 clk => LPM_FF:inst110.clock
 clk => LPM_FF:inst99.clock
 clk => LPM_FF:inst98.clock
@@ -13391,5 +13385,14 @@ segments_out[3] <= Mux3.DB_MAX_OUTPUT_PORT_TYPE
 segments_out[4] <= Mux2.DB_MAX_OUTPUT_PORT_TYPE
 segments_out[5] <= Mux1.DB_MAX_OUTPUT_PORT_TYPE
 segments_out[6] <= Mux0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|g58_testbed|LPM_CONSTANT:data_placeholder
+result[0] <= <VCC>
+result[1] <= <VCC>
+result[2] <= <VCC>
+result[3] <= <GND>
+result[4] <= <GND>
+result[5] <= <GND>
 
 

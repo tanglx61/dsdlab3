@@ -8,7 +8,6 @@ entity g58_testbed is
         rst             : in     vl_logic;
         disp_mode       : in     vl_logic;
         addr            : in     vl_logic_vector(5 downto 0);
-        data            : in     vl_logic_vector(5 downto 0);
         mode            : in     vl_logic_vector(1 downto 0);
         full            : out    vl_logic;
         pulse           : out    vl_logic;
